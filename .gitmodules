@@ -1,0 +1,3 @@
+[submodule "rancher-collection"]
+	path = rancher-collection
+	url = https://github.com/ellerbrock/rancher-collection.git
